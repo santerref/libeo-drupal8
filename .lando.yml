@@ -1,0 +1,4 @@
+name: formation-drupal8
+recipe: drupal8
+config:
+  webroot: web
